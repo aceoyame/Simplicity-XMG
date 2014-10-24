@@ -1,0 +1,1 @@
+minerd.exe -a m7mhash -o stratum+tcp://mine2.magi.nonce-pool.com:4090 -u MarcusDe.test -p x -t 2

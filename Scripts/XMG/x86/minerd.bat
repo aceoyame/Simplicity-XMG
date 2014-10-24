@@ -1,0 +1,1 @@
+minerd.exe -a m7mhash -o stratum+tcp://pool:port -u <username> -p <password> -t <number of threads>
